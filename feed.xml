@@ -3,7 +3,7 @@
     <title>TORES ORG</title>
     <link href="https://al-kivi.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://al-kivi.github.io/gh-pages" />
-    <updated>2023-07-05T10:20:28-04:00</updated>
+    <updated>2023-07-05T10:56:15-04:00</updated>
     <author>
         <name>Al Kivi</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://al-kivi.github.io/gh-pages/hello-there.html"/>
         <id>https://al-kivi.github.io/gh-pages/hello-there.html</id>
+        <media:content url="https://al-kivi.github.io/gh-pages/media/posts/1/strawberry.jpg" medium="image" />
 
-        <updated>2023-07-05T10:20:28-04:00</updated>
+        <updated>2023-07-05T10:56:15-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://al-kivi.github.io/gh-pages/media/posts/1/strawberry.jpg" alt="" />
                     From johntory2022.ca – August 23, 2022 Plan aims at addressing the housing shortage and builds on Mayor Tory’s proven track&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://al-kivi.github.io/gh-pages/media/posts/1/strawberry.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="entry-content">
 <figure class="post__image"><img loading="lazy"  src="https://al-kivi.github.io/gh-pages/media/posts/1/tory-five-point-plan.jpg" alt="" width="610" height="400" sizes="(max-width: 48em) 100vw, 768px" srcset="https://al-kivi.github.io/gh-pages/media/posts/1/responsive/tory-five-point-plan-xs.jpg 300w ,https://al-kivi.github.io/gh-pages/media/posts/1/responsive/tory-five-point-plan-sm.jpg 480w ,https://al-kivi.github.io/gh-pages/media/posts/1/responsive/tory-five-point-plan-md.jpg 768w"></figure>
 <p><strong>From johntory2022.ca – August 23, 2022</strong></p>
