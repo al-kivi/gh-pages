@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TORES ORG",
+    "description": "",
+    "home_page_url": "https://al-kivi.github.io/gh-pages",
+    "feed_url": "https://al-kivi.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://al-kivi.github.io/gh-pages/media/website/tores-logo-blue-200x200-1.jpg",
+    "author": {
+        "name": "Al Kivi"
+    },
+    "items": [
+        {
+            "id": "https://al-kivi.github.io/gh-pages/hello-there.html",
+            "url": "https://al-kivi.github.io/gh-pages/hello-there.html",
+            "title": "Hello there",
+            "summary": "This is my first post.",
+            "content_html": "<p>This is my first post.</p>",
+            "author": {
+                "name": "Al Kivi"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-05T10:05:51-04:00",
+            "date_modified": "2023-07-05T10:05:51-04:00"
+        }
+    ]
+}

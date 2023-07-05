@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>TORES ORG</title>
+    <link href="https://al-kivi.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://al-kivi.github.io/gh-pages" />
+    <updated>2023-07-05T10:05:51-04:00</updated>
+    <author>
+        <name>Al Kivi</name>
+    </author>
+    <id>https://al-kivi.github.io/gh-pages</id>
+
+    <entry>
+        <title>Hello there</title>
+        <author>
+            <name>Al Kivi</name>
+        </author>
+        <link href="https://al-kivi.github.io/gh-pages/hello-there.html"/>
+        <id>https://al-kivi.github.io/gh-pages/hello-there.html</id>
+
+        <updated>2023-07-05T10:05:51-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This is my first post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is my first post.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
